@@ -11,6 +11,7 @@ A simple Python ETL project that pulls live cryptocurrency prices from the CoinG
 ### 📁 Output:
 - `crypto_prices_inr.csv`
 - Bar chart showing top 10 cryptocurrencies by 24h change
+![image](https://github.com/user-attachments/assets/1b2a4aa2-6361-46f1-ac82-807d2fd7e0b3)
 
 ### 🔧 Tech Stack:
 `Python` • `pandas` • `requests` • `matplotlib`
