@@ -38,7 +38,9 @@ Weather_ETL/
 ├── Weather_ETL.ipynb       # Jupyter notebook (full ETL logic)
 ├── weather_data.db         # SQLite database file (auto-generated)
 ├── .env                    # Stores API Key (not uploaded to GitHub)
+├── Visualizations          # Contains heatmap and linechart (Mumbai) from extracted data
 └── README.md               # This file
+
 ```
 
 ---
