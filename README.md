@@ -36,7 +36,7 @@ Each project is contained in its own folder, with:
 - 📡 **Source**: OpenWeatherMap API
 - ✅ Fetches weather for user-selected cities with emoji condition
 - 📊 Planned: historical trend tracking
-- 📂 Output: Weather CSV
+- 📂 Output: `weather_data.db`, histogram
 
 ### 📺 YouTube Stats Collector *(Planned)*
 - 📡 **Source**: YouTube Data API
