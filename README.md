@@ -32,7 +32,7 @@ Each project is contained in its own folder, with:
 - 📊 Visualizes 24h % change using `matplotlib`
 - 📂 Output: `crypto_prices_inr.csv`, bar chart
 
-### ☁️ Weather Reporter ETL *(Coming Soon)*
+### ☁️ Weather Data ETL 
 - 📡 **Source**: OpenWeatherMap API
 - ✅ Fetches weather for user-selected cities with emoji condition
 - 📊 Planned: historical trend tracking
