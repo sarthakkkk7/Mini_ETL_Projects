@@ -35,7 +35,7 @@ Each project is contained in its own folder, with:
 ### ☁️ Weather Data ETL 
 - 📡 **Source**: OpenWeatherMap API
 - ✅ Fetches weather for user-selected cities with emoji condition
-- 📊 Planned: historical trend tracking
+- 📊 Visualizes the multi-hour weather information of a city.
 - 📂 Output: `weather_data.db`, histogram
 
 ### 📺 YouTube Stats Collector *(Planned)*
