@@ -36,7 +36,7 @@ Each project is contained in its own folder, with:
 - 📡 **Source**: OpenWeatherMap API
 - ✅ Fetches weather for user-selected cities.
 - 📊 Visualizes the multi-hour weather information of a city.
-- 📂 Output: `weather_data.db`, histogram
+- 📂 Output: `weather_data.db`, line chart, histogram
 
 ### 📺 YouTube Stats Collector *(Planned)*
 - 📡 **Source**: YouTube Data API
