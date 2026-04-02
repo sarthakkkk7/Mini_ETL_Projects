@@ -61,7 +61,7 @@ Each project is contained in its own folder, with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sarthakkkk7/ETL-Projects.git
+git clone https://github.com/sarthakkkk7/Mini_ETL_Projects.git
 cd ETL-Projects
 ```
 
