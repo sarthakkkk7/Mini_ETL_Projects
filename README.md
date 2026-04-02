@@ -78,7 +78,7 @@ cd ETL-Projects
 ## 👨🏼‍💻 Author
 
 **Sarthak Satish Deshmukh**  
-Data Engineering Enthusiast | Python & Cloud Learner  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/sarthak-deshmukh-398316235)  
 📂 [GitHub](https://github.com/sarthakkkk7)
 
