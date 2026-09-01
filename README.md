@@ -41,7 +41,7 @@ Each project is contained in its own folder, with:
 ### 📺 YouTube Stats Collector *(Planned)*
 - 📡 **Source**: YouTube Data API
 - 🔄 Extracts video stats from a public channel
-- 🔧 Aggregates views, likes, and publishing 
+- 🔧 Aggregates views, likes, and publishing dates
 - 📂 Output: Channel-wise video data CSV
 
 ---
